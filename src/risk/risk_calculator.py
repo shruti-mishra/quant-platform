@@ -120,6 +120,19 @@ def calculate_trade_risk(
     }
 
 
+
+def portfolio_risk(account_balance, open_positions):
+    """
+    account_balance: float
+    open_positions: list of risk amounts
+
+    Returns:
+        total_open_risk
+        risk_percentage
+    """
+
+def reward_risk_ratio(entry_price, stop_loss, target_price):
+
 if __name__ == "__main__":
     result = calculate_trade_risk(
         cash=10000,

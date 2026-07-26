@@ -1,0 +1,3 @@
+@measure_time
+def load_data():
+    ...

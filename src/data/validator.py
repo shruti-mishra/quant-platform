@@ -1,0 +1,19 @@
+def check_missing_values(df):
+    ...
+
+def check_duplicate_rows(df):
+    ...
+
+def check_duplicate_dates(df):
+    ...
+
+def check_date_order(df):
+    ...
+
+def check_negative_values(df):
+    ...
+
+def check_ohlc_relationships(df):
+    ...
+
+def validate_dataframe(df):
